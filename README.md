@@ -4,6 +4,11 @@ Touch! SUNTORYのブラウザ起動・認証更新・JAN登録を補助する非
 
 [![userscriptをインストール](assets/install.svg)](https://raw.githubusercontent.com/Yuubagi/touch-suntory/main/touch-suntory.user.js)
 
+## 注意事項
+
+- サービス側のAPIや仕様の変更により、予告なく動作しなくなる場合があります。継続的な動作を保証するものではありません。
+- 本スクリプトは自己責任でご利用ください。利用により生じた不具合や損害について、作者は責任を負いません。
+
 ## インストール
 
 1. お使いのブラウザにuserscript管理拡張機能（Tampermonkeyなど）を導入し、有効にします。
