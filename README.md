@@ -33,6 +33,12 @@ iOSの場合は、[Userscripts](https://apps.apple.com/jp/app/userscripts/id1463
 
 結果は画面下部に表示されます。認証期限が切れている場合は、ブラウザでの認証更新を試みます。再ログインやミニアプリの開き直しが必要な場合は、表示に従ってください。
 
+### 表示例
+
+スキャンボタンの位置に「自動登録」ボタンが表示されます。
+
+<img src="assets/touch-suntory-screenshot.jpg" alt="Touch! SUNTORYの画面に表示された自動登録ボタン" width="420">
+
 ## 動作について
 
 - LINEの案内画面では、対象の「ブラウザで開く」リンクが見つかった場合に自動移動します。
