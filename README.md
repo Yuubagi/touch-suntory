@@ -17,6 +17,8 @@ Touch! SUNTORYのブラウザ起動・認証更新・JAN登録を補助する非
 
 ## インストール
 
+iOSの場合は、[Userscripts](https://apps.apple.com/jp/app/userscripts/id1463298887)（無料）または[Tampermonkey](https://apps.apple.com/jp/app/tampermonkey/id6738342400)（有料）がおすすめです。
+
 1. お使いのブラウザにuserscript管理拡張機能（Tampermonkeyなど）を導入し、有効にします。
 2. 上の **「インストール」ボタン** を押します。
 3. 管理拡張機能の確認画面で内容を確認し、インストールします。
@@ -25,7 +27,7 @@ Touch! SUNTORYのブラウザ起動・認証更新・JAN登録を補助する非
 
 ## 使い方
 
-1. 通常の入口からTouch! SUNTORYを開き、ログインします。
+1. QRコードやURLからTouch! SUNTORYを開き、ログインします。
 2. スキャンボタンの位置に表示される **「自動登録」** を押すと、スクリプト内のJANコード5件を順に送信します。
 3. 実行中にもう一度押すと、現在の通信が完了した後に残りの送信を停止します。
 
